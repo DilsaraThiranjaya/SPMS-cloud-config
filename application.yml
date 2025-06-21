@@ -8,8 +8,8 @@ database:
   mysql:
     host: localhost
     port: 3306
-    username: spms_user
-    password: 1234
+    username: root
+    password: 07614
 
 # Common Eureka configuration
 eureka:
